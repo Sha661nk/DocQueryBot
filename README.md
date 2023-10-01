@@ -17,9 +17,9 @@ Use the sidebar to upload one or multiple PDF documents.
 Click on "Process" to extract and process the text content of the PDFs.
 Use the main chat interface to ask questions related to the content of your uploaded documents.
 
-Technical Dependencies:
+#### Technical Dependencies:
 
-Streamlit
-dotenv
-PyPDF2
-Custom libraries: langchain, template
+* Streamlit
+* dotenv
+* PyPDF2
+* Custom libraries: langchain, template

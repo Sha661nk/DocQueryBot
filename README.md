@@ -1,5 +1,5 @@
 # Implements Retrieval Augmented Generation
-# Talk through Multiple PDF Documents
+### Talk through Multiple PDF Documents
 Description: A Streamlit web application to facilitate conversational interactions based on the content of uploaded PDF documents.
 
 Key Features:

@@ -11,6 +11,8 @@
 - **Text Embeddings**: The application uses embeddings (from OpenAI or HuggingFaceInstruct) to represent text chunks and store them in a FAISS vector store.
 - **Conversational Retrieval Chain**: Combines the power of a large language model (LLM) with the retrieval capabilities of the FAISS vector store to provide conversationally relevant responses.
 
+![image](https://github.com/Sha661nk/RAG_Implementation/assets/108450614/6ace900c-08ee-4726-b4ab-578e9da87b63)
+
 **How to use:**
 
 1. Launch the Streamlit application.
